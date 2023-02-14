@@ -1,0 +1,16 @@
+clipboard
+GitPython
+matplotlib
+numpy
+pandas
+plotly
+pyperclip
+pywin32
+pyside2
+python-gitlab
+xlrd
+xlsxwriter
+pywinauto
+xlutils
+gevent
+pyvisa

@@ -1,0 +1,65 @@
+{
+    "电源测试": [{
+        "name": "电压",
+        "ch": "1",
+        "value": 0,
+        "std": 3.3,
+        "check": "2%",
+        "unit": "V",
+        "mease": "AMP",
+        "auto": "DC",
+        "note": ""
+    }, {
+        "name": "纹波",
+        "ch": "2",
+        "value": "",
+        "std": 50,
+        "chec": "<",
+        "unit": "mV",
+        "mease": "VPP",
+        "auto": "AC",
+        "note": ""
+    }],
+    "延时测试": [{
+        "name": "电压",
+        "ch": "1",
+        "value": 0,
+        "std": 3.3,
+        "check": "2%",
+        "unit": "V",
+        "mease": "AMP",
+        "auto": "DC",
+        "note": ""
+    }, {
+        "name": "纹波",
+        "ch": "2",
+        "value": "",
+        "std": 50,
+        "chec": "<",
+        "unit": "mV",
+        "mease": "VPP",
+        "auto": "AC",
+        "note": ""
+    }],
+    "信号测试": [{
+        "name": "电压",
+        "ch": "1",
+        "value": 0,
+        "std": 3.3,
+        "check": "2%",
+        "unit": "V",
+        "mease": "AMP",
+        "auto": "DC",
+        "note": ""
+    }, {
+        "name": "纹波",
+        "ch": "2",
+        "value": "",
+        "std": 50,
+        "chec": "<",
+        "unit": "mV",
+        "mease": "VPP",
+        "auto": "AC",
+        "note": ""
+    }]
+}
